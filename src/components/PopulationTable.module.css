@@ -1,0 +1,22 @@
+.mainTable {
+  width: 100%;
+  border: solid 1px #c2cfd9;
+}
+
+.tableHeader {
+  text-align: left;
+  padding: 5px;
+  border: solid 1px #c2cfd9;
+}
+
+.tableCell {
+  padding: 5px;
+  text-align: left;
+  border: solid 1px #c2cfd9;
+}
+
+.emblemColumn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
